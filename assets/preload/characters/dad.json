@@ -118,25 +118,36 @@
 				59
 			],
 			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
+		-170,
+		50
+	],
+	"healthicon": "monster",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
 		0,
 		0
 	],
-	"healthicon": "dad",
-	"flip_x": false,
-	"healthbar_colors": [
-		175,
-		102,
-		206
-	],
 	"camera_position": [
-		0,
+		180,
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.1
 }
